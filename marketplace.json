@@ -1,0 +1,11 @@
+{
+  "name": "My Custom Marketplace",
+  "plugins": [
+    {
+      "name": "my-custom-plugin",
+      "description": "Description of what your plugin does",
+      "version": "1.0.0",
+      "source": "./path-to-plugin-folder"
+    }
+  ]
+}
